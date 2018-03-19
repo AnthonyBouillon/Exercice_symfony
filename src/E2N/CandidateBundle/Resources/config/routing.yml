@@ -1,0 +1,3 @@
+e2_n_candidate_homepage:
+    path:     /
+    defaults: { _controller: E2NCandidateBundle:Default:index }
